@@ -26,7 +26,3 @@ gijigae입니다:D
    
 # <span> &#128513;</sapn> 우리를 소개합니다.
 ![image](https://user-images.githubusercontent.com/45649186/95163580-25517c80-07e3-11eb-9833-ce878d8fae70.png)
-
-
-# For project details
-### [checkout WIKI](https://github.com/codestates/getupmate-client/wiki)

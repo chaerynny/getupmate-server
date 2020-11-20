@@ -13,4 +13,5 @@
 gijigae입니다:D
 
 
-- package.json => npm install
+### install
+npm install
